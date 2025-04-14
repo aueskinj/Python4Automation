@@ -1,8 +1,6 @@
----
+# 🧾 Python `os` Module Cheat Sheet
 
-### 🧾 Python `os` Module Cheat Sheet
-
-| **Function**                          | **Description**                                                                 | **Example**                                  |
+| **Function**                         | **Description**                                                                 | **Example**                                |
 |--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------|
 | `os.getcwd()`                        | Returns the current working directory                                           | `cwd = os.getcwd()`                          |
 | `os.chdir(path)`                     | Changes the current working directory                                           | `os.chdir('/home/user/folder')`              |
