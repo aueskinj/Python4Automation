@@ -31,5 +31,3 @@
 - Use `os.path` submodule for most path-related operations.
 
 ---
-
-Let me know if you want this as a downloadable file or converted into flashcards or something interactive!
